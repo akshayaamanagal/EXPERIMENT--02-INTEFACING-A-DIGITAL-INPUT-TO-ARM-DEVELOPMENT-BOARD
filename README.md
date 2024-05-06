@@ -90,7 +90,7 @@ int main(void)
 
 ## Output  :
 ### LED OFF:
-![experiment--02-interfacing-a-digital-input-to-arm-development-board](off.jpg)
+![o](https://github.com/akshayaamanagal/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119389066/d965baa5-1e0d-4e37-989c-9c31b03d7afc)
 ### LED ON:
 ![experiment--02-interfacing-a-digital-input-to-arm-development-board](on.jpg)
  
